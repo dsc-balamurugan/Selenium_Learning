@@ -33,7 +33,7 @@ Contributions are always welcome! If you have suggestions, improvements, or addi
 
 ## 📞 Contact
 
-For any questions or feedback, you can reach me at [dsc-balamurugan@gmail.com](mailto:[dsc-balamurugan@gmail.com])
+For any questions or feedback, you can reach me at [dsc.balamurugan@gmail.com](mailto:[dsc.balamurugan@gmail.com])
 
 ---
 
